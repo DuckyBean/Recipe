@@ -1,5 +1,5 @@
 # Recipe
-#add bacon
-#add green onion
-#add chicken
-#done
+add bacon
+add green onion
+add chicken
+done
